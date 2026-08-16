@@ -1,0 +1,25 @@
+{
+    "require": {
+        "php": ">=8.1",
+        "ext-bcmath": "*",
+        "ext-ctype": "*",
+        "ext-curl": "*",
+        "ext-dom": "*",
+        "ext-exif": "*",
+        "ext-fileinfo": "*",
+        "ext-filter": "*",
+        "ext-gd": "*",
+        "ext-gmp": "*",
+        "ext-hash": "*",
+        "ext-intl": "*",
+        "ext-mbstring": "*",
+        "ext-openssl": "*",
+        "ext-pcre": "*",
+        "ext-pdo": "*",
+        "ext-session": "*",
+        "ext-sockets": "*",
+        "ext-sodium": "*",
+        "ext-tokenizer": "*",
+        "ext-xml": "*"
+    }
+}
