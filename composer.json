@@ -21,6 +21,7 @@
         "ext-sockets": "*",
         "ext-sodium": "*",
         "ext-tokenizer": "*",
-        "ext-xml": "*"
+        "ext-xml": "*",
+        "ext-zip": "*"
     }
 }
